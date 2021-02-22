@@ -1,0 +1,59 @@
+
+#blueP
+{
+color: blue;
+}
+
+#redP
+{
+    color: red;
+
+}
+
+#greenP
+{
+    color:green;
+}
+
+
+#smallP
+{
+    font-size: 75%;
+}
+
+#orangeP
+{
+    color:orange;
+}
+
+#fontChangeP
+{
+font-family: 'Courier New';
+}
+
+.boldText
+{
+ font-weight: bold;
+}
+
+.centerText
+{
+    text-align: center;
+}
+
+.bigText
+{
+    font-size: 300%;
+}
+
+.styledFont
+{
+    color: maroon;
+    font-family: 'Georgia';
+}
+
+#styledImage
+{
+    border: 3px solid blueviolet;
+    padding: 2px;
+}
