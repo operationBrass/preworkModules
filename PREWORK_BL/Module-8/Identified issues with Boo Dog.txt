@@ -1,0 +1,46 @@
+0. Tab title does not contain 'Fan Page' 
+
+	<TITLE> text update
+
+Website body title not in a Heading style 
+
+	Missing <H1> tag
+
+2. About boo not paragraphed and missing space before hyperlink
+
+	<p> tags and space
+
+3. Broken link for the img of Boo the dog
+
+	missing opening and closing < > brackets around the img tag
+
+4. No random Boo Facts on button press
+
+5. Missing Grow and Shrink section entire
+	
+6. No colour change on click of colour buttons a
+
+7. Favorite things not numbered list or having a comma seperator.
+
+8. On click not responding with Grow and Shrink for the img of Boo below it
+
+9. invalid source to JS file
+
+$("#funText").css("color", pink) missing " around pink
+$("#boxGrow").on(click, function() { missing " around click
+
+Varible name boo Facts missing word 'Array'
+items not seperated in array.
+
+missing comments 
+mising identation
+
+10. button ids for the colors swapped around.
+
+11. removed instruction DIV code element from web page
+
+12. missing source link in <A HREF> tag https://en.wikipedia.org/wiki/Boo_(dog)
+
+Missing LI tags on boo favorite things
+
+postioning of elements incorrect order
